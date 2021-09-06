@@ -53,7 +53,7 @@ You can read a specific project to get the related tasks - For transparency reas
     ├── main.py ................... 4.
     └── models.py ................. 5.
 ```
-where the
+**where the**
 * database object contains a sample ToDo list
 * database module creates the engine and the function to create all the tables
 * main module contains the path operations
