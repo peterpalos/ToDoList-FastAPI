@@ -30,7 +30,7 @@ The app provides the most necessary options for organizing your daily tasks
   * ID (int) - automatically generated, cannot be modified
   * Name of the task (str)
   * The project where it is classified (str)
-  * Priority (low, normal, high)
+  * Priority (str) - only low, normal or high
   * Deadline (date)
   * Done (bool) - False automatically generated, can be modified later
   
