@@ -17,7 +17,7 @@ The app provides the most necessary options for organizing your daily tasks
   * Modify
   * Delete
   * Read a task
-  * Read the Todo list
+  * Read the ToDo list
 
 **And project functions to organize the tasks into larger modules**
   * Add
