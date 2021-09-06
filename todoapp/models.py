@@ -52,7 +52,7 @@ class ToDoCreate(ToDoBase):
 
 
 class ToDoUpdate(SQLModel):
-    name: Optional[str] = None
+    task: Optional[str] = None
     project_name: Optional[str] = None
     priority: Optional[str] = None
     deadline: Optional[date] = None
